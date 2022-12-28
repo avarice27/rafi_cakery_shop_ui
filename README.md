@@ -1,6 +1,6 @@
 # flutter_cakery_shop_ui
 
-A new Flutter project.
+Project Flutter Rafi Cakery yang dibuat dengan bahasa pemrograman dart ini menampilkan Home Menu berisi tampilan berbagai macam kue yang tersedia.
 
 ## Getting Started
 
